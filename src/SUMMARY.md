@@ -1,6 +1,6 @@
 # Summary
 
-[首頁](../README.md)
+[首頁](./README.md)
 
 - [找房](./find/README.md)
     - [估買房預算](./find/budget.md)
